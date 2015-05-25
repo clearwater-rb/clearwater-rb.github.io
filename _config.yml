@@ -1,14 +1,17 @@
 # Site settings
-title: "Blog Title"
-description: "The blog description."
-owner: "Kurtis Rainbolt-Greene"
+title: "Clearwater"
+description: "The Ruby rich frontend framework"
+owner: "Clearwater Foundation"
 profiles:
   -
-    url: "http://twitter.com/krainboltgreene"
-    name: "Twitter"
-github: "http://github.com/organization/blankjekyll.github.io"
-logo: "http://github.com/krainboltgreene.png"
-analytics: UA-18715035-10
+    url: "http://github.com/clearwater-rb"
+    name: "Github"
+  -
+    url: "http://github.com/clearwater-rb/clearwater"
+    name: "Source"
+github: "http://github.com/clearwater-rb/clearwater-rb.github.io"
+logo: "http://github.com/clearwater-rb.png"
+analytics: UA-18715035-9
 
 # Build settings
 markdown: redcarpet
