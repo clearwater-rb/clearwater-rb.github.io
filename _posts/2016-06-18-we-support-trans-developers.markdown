@@ -1,3 +1,14 @@
+---
+layout: "post"
+title: "We support trans developers"
+summary: "But we don't support transphobic statements"
+date: 2016-06-18
+authors:
+  -
+    name: "Kurtis Rainbolt-Greene"
+    email: "me@kurtisrainboltgreene.name"
+    avatar: "http://github.com/krainboltgreene.png"
+---
 
 We support transexual developers.
 
