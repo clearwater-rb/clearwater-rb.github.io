@@ -2,7 +2,7 @@
 layout: "post"
 title: "We support transgender developers"
 summary: "But we don't support transphobic statements"
-date: 2016-06-18
+date: 2015-06-18
 authors:
   -
     name: "Kurtis Rainbolt-Greene"
